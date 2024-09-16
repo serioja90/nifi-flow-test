@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1726501482959,
+    "description" : "test",
+    "identifier" : "prova",
+    "lastModifiedTimestamp" : 1726501482959,
+    "name" : "prova",
+    "versionCount" : 0
+  },
+  "latest" : false
+}

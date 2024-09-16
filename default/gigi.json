@@ -23,7 +23,22 @@
     "funnels" : [ ],
     "identifier" : "flow-contents-group",
     "inputPorts" : [ ],
-    "labels" : [ ],
+    "labels" : [ {
+      "componentType" : "LABEL",
+      "groupIdentifier" : "flow-contents-group",
+      "height" : 24.0,
+      "identifier" : "d7cae097-6497-3e89-b108-3567e4455c61",
+      "label" : "just a test",
+      "position" : {
+        "x" : -161.0,
+        "y" : -105.5
+      },
+      "style" : {
+        "font-size" : "12px"
+      },
+      "width" : 96.0,
+      "zIndex" : 0
+    } ],
     "maxConcurrentTasks" : 1,
     "name" : "gigi",
     "outputPorts" : [ ],
